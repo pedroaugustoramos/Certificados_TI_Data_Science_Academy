@@ -1,4 +1,4 @@
 # Certificados_TI_Data_Sementix_Academy
-Certificados Semantix Academy
+Certificados da Data Science Academy até o presente momento 08/08/2022
 
-Certificates from Semantix Academy
+Certificates from Data Science Academy as of today 08/08/2022
